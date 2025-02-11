@@ -1,7 +1,7 @@
 {
   "name": "extra-methods",
-  "version": "0.1.1",
-  "description": "",
+  "version": "0.1.2",
+  "description": "Extra methods, functions and classes for Node.js.",
   "main": "./dist/index.js",
   "homepage": "https://github.com/ahmetcanisik/extra-methods#readme",
   "repository": {
