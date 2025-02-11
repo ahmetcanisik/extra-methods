@@ -1,1 +1,1 @@
-# Extra String methods.
+# Extra methods-functions and classes for Node.js.
