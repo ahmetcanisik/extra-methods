@@ -1,6 +1,6 @@
 {
   "name": "extra-methods",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Extra methods, functions and classes for Node.js.",
   "main": "./dist/index.js",
   "homepage": "https://github.com/ahmetcanisik/extra-methods#readme",
@@ -12,6 +12,7 @@
     "url": "https://github.com/ahmetcanisik/extra-methods/issues"
   },
   "scripts": {
+    "prepare": "npm run build",
     "build": "tsc",
     "try": "npm run build && node .",
     "test": "npm run build && node ./dist/test.js"
